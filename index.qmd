@@ -1,0 +1,26 @@
+---
+title: "Léon Beaufils"
+image: photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:beaufils.leon@outlook.fr
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leon-beaufils/
+---
+
+## Welcome !
+
+I am currently a predoctoral researcher at the <a href="https://www.stanfordecholab.com/" target="_blank">EchoLab</a>, Stanford University. Previously, I was at the Paris School of Economics for my Master's.
+
+---
+
+## What's New?
+
+I am currently finalizing my (first!) working paper. Stay tuned!

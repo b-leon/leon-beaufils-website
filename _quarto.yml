@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Léon Beaufils"
+  description: "Applied Environmental Economist"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: mailto:beaufils.leon@outlook.fr
+      - icon: github
+        href: https://github.com/b-leon
+      - icon: linkedin
+        href: https://www.linkedin.com/in/leon-beaufils/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
