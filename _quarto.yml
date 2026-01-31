@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs  
+  output-dir: docs
+  resources:
+    - "google*.html"  # This copies the verification file to docs/
 
 website:
   title: "Léon Beaufils"
