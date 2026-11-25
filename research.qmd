@@ -15,7 +15,7 @@ My research focuses on identifying and quantifying the economic value of ecosyst
 
 Marshall Burke, Andrew Wilson, Ziqian Xia, **Léon Beaufils**, Tumenkhusel Avirmed, Jonas Wallstein, Tina Bardot, Mariana Martins, Patrick Behrer, Christopher W. Callahan, Marissa Childs, June Choi, Karina French, Carlos F. Gould, Guojun He, Sam Heft-Neal, Renzhi Jing, Minghao Qiu, Lisa Rennels, and Emma Southworth
 
-*Under review*
+*Under review* · Oct. 2026
 
 <details class="paper-details">
 <summary>Abstract &amp; figures</summary>
@@ -30,7 +30,7 @@ A large literature documents how ambient temperature affects human mortality. We
 
 **Léon Beaufils**
 
-*Working paper*
+*Working paper* · Oct. 2025
 
 [<i class="bi bi-file-earmark-pdf"></i> Download PDF](papers/beaufils-pollinator-loss.pdf){.btn .btn-outline-primary .btn-sm}
 
@@ -52,6 +52,8 @@ Insect pollinators are in global decline due to anthropogenic pressures, despite
 ### GHOMP: Global Harmonized Open Mortality Panel
 
 Andrew Wilson, **Léon Beaufils**, Tumenkhusel Avirmed, Jonas Wallstein, Tina Bardot, and Marshall Burke
+
+*Oct. 2026*
 
 <details class="paper-details">
 <summary>Abstract &amp; figures</summary>
