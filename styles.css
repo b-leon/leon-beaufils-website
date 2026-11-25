@@ -78,3 +78,43 @@ img.paper-figure {
   border-radius: 6px;
   cursor: zoom-in;
 }
+
+/* Collapsible abstract + figures for each paper */
+.paper-details {
+  margin: 0.75rem 0 2rem;
+}
+
+.paper-details > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  color: var(--bs-primary);
+  font-size: 0.95rem;
+  list-style: none;
+  user-select: none;
+}
+
+.paper-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-details > summary::before {
+  content: "\25B8"; /* ▸ */
+  font-size: 1.15em;
+  line-height: 1;
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+.paper-details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.paper-details > summary:hover {
+  text-decoration: underline;
+}
+
+.paper-details[open] > summary {
+  margin-bottom: 0.75rem;
+}
