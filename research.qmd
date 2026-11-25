@@ -27,6 +27,8 @@ A large literature documents how ambient temperature affects human mortality. We
 
 *Working paper*
 
+[<i class="bi bi-file-earmark-pdf"></i> Download PDF](papers/beaufils-pollinator-loss.pdf){.btn .btn-outline-primary .btn-sm}
+
 Insect pollinators are in global decline due to anthropogenic pressures, despite continued growth in the production of pollination-dependent crops. This divergence poses risks to agricultural productivity and food security, yet the economic value of pollination services remains poorly identified. As a result, policymakers face challenges in incorporating pollinators into cost-benefit analyses for conservation efforts and in addressing the negative externalities that contribute to their decline. This paper provides causal estimates of the effects of pollinator loss by exploiting quasi-exogenous variation in pollination supply from the staggered biological invasion of the Asian hornet (*Vespa velutina*) – a predator of insect pollinators – across France. Using a difference-in-differences design, I find that hornet invasion reduces managed beehive counts by 11.4%, oilseed rape yields by 5.2%, and average farmland prices by 4.3%. These results underscore the high economic value of insect pollinators for agriculture and illustrate how ecosystem health can shape economic outcomes.
 
 ::: {layout="[70.5,29.5]" layout-valign="bottom"}
